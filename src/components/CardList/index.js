@@ -25,7 +25,7 @@ export default function CardList(props) {
                                     </table>
                                     
                                     <h3 className={`${data.isPriceBold=="True" ? "font-bold " : ""} text-sm text-gray-700`}>
-                                        <span aria-hidden="true" className="absolute inset-0" />{data.harga}
+                                        <span aria-hidden="true" className="absolute inset-0" />{data.jurusan}
                                     </h3>
                                 </div>
                             </div>
