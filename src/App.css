@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #17cc9f;
+  padding-top: 0.75rem;
+  padding-right: 0px;
+  padding-bottom: 0.75rem;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: calc(8px + 2vmin);
+  color: white;
+}
+
+.search {
+  padding: 8px 15px;
+  background: rgba(255, 255, 255, 0.966);
+  border: 0px solid #dbdbdb;
+}
+
+.button {
+  position: relative;
+  padding: 6px 15px;
+  left: -8px;
+  border: 2px solid #000000;
+  background-color: #0c9e18;
+  color: #fafafa;
+}
+
+.text {
+  font-size: medium;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button-active {
+  float: left;
+  padding: 0px;
+  left: -8px;
+  border: 2px solid #000000;
+  background-color: #041347;
+  color: #fafafa;
+  margin-right: 900px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
