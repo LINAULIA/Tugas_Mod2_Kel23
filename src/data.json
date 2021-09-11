@@ -1,11 +1,11 @@
 [
-    {"nama":"TAEYEONG", "harga":"Computer Engineer", "isPriceBold":"False","image":"./assets/img/Taeyong.jpg", "isads":"True"},
-    {"nama":"MARK LEE", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Mark.jpg", "isads":"False"},
-    {"nama":"JAEHYUN", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Jaehyun.jpg", "isads":"False"},
-    {"nama":"HAECHAN", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Haechan.jpg", "isads":"False"},
-    {"nama":"TAEIL", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Taeil.jpg", "isads":"False"},
-    {"nama":"DOYOUNG", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Doyoung.jpg", "isads":"False"},
-    {"nama":"JOHNNY", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Johnny.jpg", "isads":"False"},
-    {"nama":"JUNGWOO", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Jungwoo.jpg", "isads":"False"},
-    {"nama":"YUTA", "harga":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Yuta.jpg", "isads":"False"}
+    {"nama":"TAEYEONG", "jurusan":"Computer Engineer", "isPriceBold":"False","image":"./assets/img/Taeyong.jpg", "isads":"True"},
+    {"nama":"MARK LEE", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Mark.jpg", "isads":"False"},
+    {"nama":"JAEHYUN", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Jaehyun.jpg", "isads":"False"},
+    {"nama":"HAECHAN", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Haechan.jpg", "isads":"False"},
+    {"nama":"TAEIL", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Taeil.jpg", "isads":"False"},
+    {"nama":"DOYOUNG", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Doyoung.jpg", "isads":"False"},
+    {"nama":"JOHNNY", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Johnny.jpg", "isads":"False"},
+    {"nama":"JUNGWOO", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Jungwoo.jpg", "isads":"False"},
+    {"nama":"YUTA", "jurusan":"Computer Engineer", "isPriceBold":"True", "image":"./assets/img/Yuta.jpg", "isads":"False"}
 ]
